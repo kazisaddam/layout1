@@ -1,0 +1,31 @@
+.container{width: 1200px; margin: 0 auto;}
+.para{}
+.para h1{text-align: center; font-size: 65px;width: 900px; margin-left: auto;margin-right: auto;
+}
+.para h1 .org{color: orange;}
+.para h1 .rd{color: red;}
+.para h1 .grn{color: green;}
+.para h1 .prpl{color: purple;}
+
+
+
+.image{text-align: center;}
+.image img{width: 1200px; height: 600px;
+	}
+
+	.para2{}
+	.para2 h2{font-size: 70px;}
+	.para2 p{font-size: 30px; text-align: justify;}
+
+	.footer{background-color: #058661; padding: 10px;}
+	.footer h3{text-align: center; font-size: 80px; color: white;}
+
+	.name{text-align: center}
+	.name h4{ font-size: 53px}
+
+	.grn1{color: green}
+	.org1{ color: orange }
+	.prpl1{ color: purple }
+	.rd1{ color: red }
+	.blu{ color: blue }
+	.sk{color: skyblue}
